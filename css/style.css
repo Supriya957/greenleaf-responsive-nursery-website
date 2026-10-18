@@ -748,3 +748,20 @@ color:#555;
     background:#1b5e20;
 
 }
+
+.social-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.social-links h3 {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.social-links a {
+    display: inline-flex;
+    font-size: 22px;
+}
